@@ -1,0 +1,27 @@
+h1{
+    color:rgb(0, 0, 0);
+
+}
+
+.start{
+    background-color: rgb(17, 88, 221);
+    display: flex;
+    justify-content: space-between;
+}
+.allgames{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.end{
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+body{
+    background-color: rgb(92, 233, 233);
+}
+h2,p{
+    text-align: center;
+}
+
